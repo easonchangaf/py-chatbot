@@ -1,0 +1,5 @@
+DEEPSEEK_API_KEY=your_key
+LANGSMITH_API_KEY=your_key
+LANGSMITH_TRACING=true
+LANGSMITH_ENDPOINT=https://api.smith.langchain.com
+LANGSMITH_PROJECT=pychatbot
